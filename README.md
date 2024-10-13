@@ -1,6 +1,10 @@
 # CI-CD-2024-03-11
+
 Status of Last Deployment:<br>
-<img src=https://github.com/GrafanyS/CI_CD_2024_03/blob/workflows/CI/badge.svg?branch=main"><br>
+<img src=https://github.com/GrafanyS/CI_CD_2024_03/workflows/CI/badge.svg?branch=main"><br>
+
+Copyleft by Andrei Valetov 2024
+
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
